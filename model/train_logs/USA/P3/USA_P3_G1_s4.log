@@ -1,0 +1,7 @@
+[get_prices-USA] (164295, 11)  (8.89s)
+[Epoch 20]  Test ASR: 2.1682 | CumR: 16.10% (Monitor)
+[get_prices-USA] (164295, 11)  (8.68s)
+[Epoch 30]  Test ASR: 2.7630 | CumR: 20.21% (Monitor)
+[get_prices-USA] (164295, 11)  (9.11s)
+[Epoch 40]  Test ASR: 2.1771 | CumR: 15.84% (Monitor)
+[get_prices-USA] (164295, 11)  (8.98s)

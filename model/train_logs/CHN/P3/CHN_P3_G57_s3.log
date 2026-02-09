@@ -1,0 +1,7 @@
+[get_prices-CHN] (131457, 11)  (8.47s)
+[Epoch 20]  Test ASR: 1.4929 | CumR: 4.18% (Monitor)
+[get_prices-CHN] (131457, 11)  (8.22s)
+[Epoch 30]  Test ASR: 1.6278 | CumR: 4.56% (Monitor)
+[get_prices-CHN] (131457, 11)  (8.49s)
+[Epoch 40]  Test ASR: 2.5332 | CumR: 7.63% (Monitor)
+[get_prices-CHN] (131457, 11)  (9.48s)
